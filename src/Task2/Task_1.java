@@ -1,6 +1,5 @@
 package Task2;
 
-import static com.sun.org.apache.xml.internal.security.keys.keyresolver.KeyResolver.length;
 
 public class Task_1 {
     public static void main(String[] args) {
